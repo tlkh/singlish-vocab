@@ -27,6 +27,7 @@ lorh
 lor mee
 lormee
 walau
+walan
 walao
 wapiang
 wahpiang
@@ -217,6 +218,7 @@ siambu
 siam bu
 your head
 zai
+zai kia
 sibeh
 si beh
 yaya
@@ -641,3 +643,5 @@ you want 10 cent?
 your grandfather's place ah?, your father own this place?
 your grandfather's road ah?, your father own this road?
 you play where one?
+si liao
+ok ba
