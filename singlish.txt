@@ -1,6 +1,9 @@
+abang
+incik
 bojio
 bo jio
 lepak
+jaga
 le pak
 buay
 tahan
@@ -12,8 +15,11 @@ heck it
 taupok
 buay pai
 pai
+kiam siap
 kena
 kenasai
+kiasu
+kiasi
 kena sai
 anything lor
 anything lorh
@@ -56,6 +62,8 @@ chope seat
 chope
 kiasu
 kiasi
+keng
+kengster
 shag
 shag sia
 shiok
@@ -297,6 +305,9 @@ ai see buay see
 ai swee mai m'niah
 ai sui
 ai tzai
+ai
+mai
+ai mai
 akan datang
 amacam
 ang pau
@@ -310,6 +321,7 @@ an zhua?
 ar?
 ar bo
 ayam
+babi
 balik kampong
 bakkwa
 bak kwa
@@ -353,6 +365,7 @@ dunnid
 echerly
 encik
 eye-power
+gan
 gabra
 gahmen
 garang
@@ -387,7 +400,12 @@ jio
 jilo
 jiro
 jom
+kaki
+kali pok
+kaypoh
+kachang
 kae ang moh
+kalang guni
 kah kenna chiu, chiu kenna kah
 kampung
 kampong
@@ -396,6 +414,7 @@ kar pak
 kayu
 kee siao
 keling kia
+kek
 kenz
 ki chia
 kiam
@@ -443,14 +462,19 @@ pang jio
 pariah
 pasar malam
 photostat
+prata
 pia
+pok eye
 piak piak
 powderful
 rabak
 rabz
 rabz-kebabz
+sabo
+sakali
 sakar
 saman
+scuse me
 sampat
 sam seng
 sargen
@@ -492,6 +516,8 @@ toot
 un
 understooded
 very the
+wai
+what la 
 wah lan
 wah lao
 wah piang
@@ -505,6 +531,7 @@ zao hor
 zao kng
 zhun
 zilo
+zi char
 zi siao
 char kway teow
 chwee kueh
@@ -585,6 +612,7 @@ revert
 solid
 stone
 take
+act blur live longer
 world
 blur like sotong
 catch no ball
